@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinvesco
-- 👀 I’m interested in ...software Engineering 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in software Engineering Technologies 
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 You can reach me on +2348032914903
 
